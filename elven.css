@@ -12,5 +12,22 @@
   transform: rotateX("180deg");
   transform: rotateY("180deg");
   transform: rotateZ("180deg");
-  transform: ;
+  transform: scaleX(3);
+  transform: scaleX(3);
+  transform: scale(2, 2); /* scales both X and Y by 2 */
+  transform: skew(45deg, 20deg);
+
+  transform: matrix(1, 0, 0, 1, 0, 0); /* for more complex transformations */
+
+  /* 
+  matrix combines the following :
+
+  scaleX(),
+  scaleY(),
+  skewX(),
+  skewY(),
+  translateX(), 
+  translateY()
+
+  */
 }

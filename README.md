@@ -11,8 +11,9 @@ Key Concepts in CSS:
 <h4>Box Model:</h4> Every HTML element is treated as a rectangular box, with properties for content, padding, border, and margin that can be controlled with CSS.
 
 <h4>Layout Techniques:</h4> CSS offers various techniques for arranging elements on a page, including Flexbox and Grid, which provide powerful tools for creating responsive and complex layouts.
-
-In this :
+<br>
+<br>
+<h3>In this :</h3>
 
 ▫️The syntax and forms of the language <br>
 ▫️Specificity, inheritance, and the cascade<br>

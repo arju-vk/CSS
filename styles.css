@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: aliceblue;
+  font-family: "press start 2p", "consolas", sans-serif;
+}
+
+p {
+  background-color: grey;
+  color: aliceblue;
+  font-family: "consolas";
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: cyan underline;
+  font-size: x-large;
+}
+#P1 {
+  color: blue;
+}
+
+.odd {
+  color: blue;
+}
+.even {
+  color: green;
+}

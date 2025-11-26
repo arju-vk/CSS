@@ -1,0 +1,15 @@
+/* Float property */
+.box {
+  width: 100px;
+  height: 100px;
+  border: 2px dotted;
+  font-size: 40px;
+  background-color: tomato;
+  float: left;
+  margin-bottom: 50px;
+}
+p {
+  clear: both;
+  font-family: "consolas", monospace;
+  font-size: x-large;
+}

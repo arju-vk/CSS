@@ -1,0 +1,25 @@
+a:link {
+  color: lawngreen;
+}
+a:visited {
+  color: grey;
+}
+a:hover {
+  color: tomato;
+}
+a:active {
+  color: aqua;
+}
+button:hover {
+  background-color: lightgrey;
+}
+/*
+li:nth-child(6) {
+  background-color: yellow;
+}
+*/
+
+li:nth-child(3n + 1) {
+  /* Can add items (odd,even) | add values(1,2,3) | add Formulas (3n,3n+1) */
+  background-color: skyblue;
+}

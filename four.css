@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUDBb4qDD4L7hYqPR_TvmhakASZNt2dILL3w&s");
+  background-repeat: no-repeat; /* Used for Non repeat of the image */
+  background-attachment: fixed; /* Used for Fixed background */
+  background-position: center; /* Used for Centering the image */
+  background-size: cover; /* Used for Covering the entire body */
+}
+
+h1 {
+  background: linear-gradient(to right, skyblue, white);
+  background-repeat: no-repeat; /* Used for Non repeat of the gradient */
+  background-attachment: fixed; /* Used for Fixed background */
+}
+
+p {
+  background: linear-gradient(to right, skyblue, white);
+  background-repeat: no-repeat; /* Used for Non repeat of the gradient */
+  background-attachment: fixed; /* Used for Fixed background */
+}

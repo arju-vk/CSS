@@ -14,15 +14,15 @@ Key Concepts in CSS:
 
 In this :
 
-▫️The syntax and forms of the language
-▫️Specificity, inheritance, and the cascade
-▫️CSS selectors, including pseudo-elements, nesting, scoping and shadow parts
-▫️CSS at-rules, including media and container queries
-▫️CSS values and units module, including numeric data types, textual data types and functional notations
-▫️Box model and margin collapse
-▫️The containing block
-▫️Stacking and block-formatting contexts
-▫️Initial, computed, used, and actual values
-▫️CSS shorthand properties
-▫️CSS flexible box, multi-column and grid layout
-▫️Animation, transitions, and transforms
+▫️The syntax and forms of the language <br>
+▫️Specificity, inheritance, and the cascade<br>
+▫️CSS selectors, including pseudo-elements, nesting, scoping and shadow parts<br>
+▫️CSS at-rules, including media and container queries<br>
+▫️CSS values and units module, including numeric data types, textual data types and functional notations<br>
+▫️Box model and margin collapse<br>
+▫️The containing block<br>
+▫️Stacking and block-formatting contexts<br>
+▫️Initial, computed, used, and actual values<br>
+▫️CSS shorthand properties<br>
+▫️CSS flexible box, multi-column and grid layout<br>
+▫️Animation, transitions, and transforms<br>
